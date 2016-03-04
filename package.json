@@ -1,0 +1,19 @@
+{
+  "name": "bower-signalr",
+  "version": "1.0.0",
+  "description": "Bower package for the SignalR JavaScript client. Source code is in the main repo at https://github.com/SignalR/SignalR, please log issues there.",
+  "main": "jquery.signalR.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CareerCruising/bower-signalr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CareerCruising/bower-signalr/issues"
+  },
+  "homepage": "https://github.com/CareerCruising/bower-signalr#readme"
+}
